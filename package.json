@@ -1,0 +1,12 @@
+{
+  "name": "mmb-content-server",
+  "version": "1.0.0",
+  "description": "内容上传服务 for MMB",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
